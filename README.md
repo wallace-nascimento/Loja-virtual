@@ -7,7 +7,7 @@
 
 
 ### Link para o projeto.
-https://github.com/wallace-nascimento/link/settings/pages
+https://wallace-nascimento.github.io/Loja-virtual/
 
 <div align="center">
  <img src="https://user-images.githubusercontent.com/87508400/151856615-56e54bbd-b073-490a-aeda-87dd56aaca4c.JPG"/>
